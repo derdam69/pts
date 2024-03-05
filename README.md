@@ -20,7 +20,7 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 <hr/>
 
 05/03/2024 23:45 UTC 
-## Did Messian invented Trip-Hop in 1937 ?
+## Did Messiaen invented Trip-Hop in 1937 ?
 [Watch the video](https://youtu.be/ooLBuCmV3Vw?si=TVGzjwX64KqszO_r&t=1032)
 
 [Watch the video](https://youtu.be/ooLBuCmV3Vw?si=WLwqNK9MYJzJIhrb&t=440)
