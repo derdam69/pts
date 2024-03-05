@@ -19,6 +19,11 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 <hr/>
 
+05/03/2024 21:47 UTC 
+## James Tenney - Chorales for Orchestra (1974)
+[![Watch the video](https://img.youtube.com/vi/a8-qQnwgaO8/maxresdefault.jpg)](https://youtu.be/a8-qQnwgaO8?si=Nl1xa1sLTA4yu4nQ)
+<hr/>
+
 05/03/2024 23:45 UTC 
 ## Did Messiaen invented Trip-Hop in 1937 ?
 [Watch the video](https://youtu.be/ooLBuCmV3Vw?si=TVGzjwX64KqszO_r&t=1032)
@@ -30,10 +35,7 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 [Watch the video](https://youtu.be/ooLBuCmV3Vw?si=wTzvCs-RGuBOP_xp)
 <hr/>
 
-05/03/2024 21:47 UTC 
-## James Tenney - Chorales for Orchestra (1974)
-[![Watch the video](https://img.youtube.com/vi/a8-qQnwgaO8/maxresdefault.jpg)](https://youtu.be/a8-qQnwgaO8?si=Nl1xa1sLTA4yu4nQ)
-<hr/>
+
 
 05/03/2024 21:31 UTC 
 
