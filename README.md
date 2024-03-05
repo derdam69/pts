@@ -8,4 +8,4 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 05/03/2024 21:31 UTC 
 ##  James Tenney
 
-https://youtu.be/G6OvGAXBtJU?si=sxb-bo766lXv3FYC
+[![Watch the video](https://img.youtube.com/vi/G6OvGAXBtJU/maxresdefault.jpg)](https://youtu.be/G6OvGAXBtJU?si=CI9TAxjye2qTVBzK)
