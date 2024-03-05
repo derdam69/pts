@@ -18,8 +18,10 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 [Watch the video](https://youtu.be/1wZnq7S3LPg?si=_IpB2Ju975z9b7vC)
 
 <hr/>
-
-
+05/03/2024 23:45 UTC 
+## Messiaen - Fête des Belles Eaux for Six Ondes Martenot (1937)
+[Watch the video](https://youtu.be/ooLBuCmV3Vw?si=wTzvCs-RGuBOP_xp)
+<hr/>
 
 05/03/2024 21:47 UTC 
 ## James Tenney - Chorales for Orchestra (1974)
