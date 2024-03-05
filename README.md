@@ -4,6 +4,10 @@
 
 https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8mHpQruuH
 
+05/03/2024 23:19 UTC 
+## Messiaen - Dieu Parmis Nous
+[Watch the video](https://youtu.be/1wZnq7S3LPg?si=_IpB2Ju975z9b7vC)
+
 
 05/03/2024 23:07 UTC 
 ## Ch. M. Widor plays his Toccata from V Symphony Op. 42 No. 1 (1932)
