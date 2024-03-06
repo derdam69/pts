@@ -12,6 +12,8 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 [Watch the video](https://youtu.be/aV5COkw1JeA?si=Qf1_6dXA25q-u2qU)
 
+<hr/>
+
 06/03/2024 23:16 UTC 
 ### René Gerber : 3 Paysages de Bruegel (1942)
 [![Watch the video](https://img.youtube.com/vi/zarGjtydLbM/maxresdefault.jpg)](https://youtu.be/zarGjtydLbM?si=nRxL2hn87REGv7x-)
