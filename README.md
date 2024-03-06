@@ -44,7 +44,9 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 [Watch the video](https://youtu.be/ooLBuCmV3Vw?si=WLwqNK9MYJzJIhrb&t=440)
 
+<hr/>
 
+05/03/2024 23:40 UTC 
 ### Messiaen - Fête des Belles Eaux for Six Ondes Martenot (1937)
 [Watch the video](https://youtu.be/ooLBuCmV3Vw?si=wTzvCs-RGuBOP_xp)
 <hr/>
@@ -55,3 +57,10 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 ### James Tenney - Tableaux Vivants (1990)
 [![Watch the video](https://img.youtube.com/vi/G6OvGAXBtJU/maxresdefault.jpg)](https://youtu.be/G6OvGAXBtJU?si=CI9TAxjye2qTVBzK)
+
+<hr/>
+
+06/03/2024 22:23 UTC 
+### Francis Poulenc - La Voix Humaine 
+#### Denise Duval, cond. Georges Prêtre (1959)
+[Watch the video](https://youtu.be/nJepq2yAnpE?si=t_b_nfpvTNWWpuDC)
