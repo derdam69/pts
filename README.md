@@ -18,7 +18,7 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 <hr/>
 
-## History - *A journey starting from the creation to latest publication*
+## History - *A journey starting from the creation to the latest publication*
 
 
 05/03/2024 23:23 UTC 
