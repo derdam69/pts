@@ -9,7 +9,7 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 
 
-## Latest
+## Latest publications
 06/03/2024 22:23 UTC 
 ### Francis Poulenc - La Voix Humaine 
 #### Denise Duval, cond. Georges Prêtre (1959)
@@ -18,7 +18,8 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 <hr/>
 
-## History
+## History - *A journey starting from the creation to latest publication*
+
 
 05/03/2024 23:23 UTC 
 ### Ch. M. Widor plays his Toccata from V Symphony Op. 42 No. 1 (1932)
