@@ -81,3 +81,8 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 ### René Gerber : 3 Paysages de Bruegel (1942)
 [![Watch the video](https://img.youtube.com/vi/zarGjtydLbM/maxresdefault.jpg)](https://youtu.be/zarGjtydLbM?si=nRxL2hn87REGv7x-)
 
+<hr/>
+06/03/2024 23:50 UTC
+### René Gerber - Concertino pour piano et orchestre à cordes (1945)
+
+[Watch the video](https://youtu.be/aV5COkw1JeA?si=Qf1_6dXA25q-u2qU)
