@@ -6,30 +6,7 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 <hr/>
 
-## Latest publications
-06/03/2024 23:16 UTC 
-### Johannes Brahms - Klavierstücke op 76 2
-#### Elisaveta Blumina piano
-[![Watch the video](https://img.youtube.com/vi/CmVpgTUrJSA/maxresdefault.jpg)](https://youtu.be/CmVpgTUrJSA?si=7RMhmBFl-QR7Tb0v")
-<hr/>
-
-06/03/2024 23:16 UTC 
-### René Gerber : 3 Paysages de Bruegel (1942)
-[![Watch the video](https://img.youtube.com/vi/zarGjtydLbM/maxresdefault.jpg)](https://youtu.be/zarGjtydLbM?si=nRxL2hn87REGv7x-)
-<hr/>
-
-06/03/2024 23:50 UTC
-### René Gerber - Concertino pour piano et orchestre à cordes (1945)
-
-[Watch the video](https://youtu.be/aV5COkw1JeA?si=Qf1_6dXA25q-u2qU)
-
-<hr/>
-
-06/03/2024 22:23 UTC 
-### Francis Poulenc - La Voix Humaine 
-#### Denise Duval, cond. Georges Prêtre (1959)
-[Watch the video](https://youtu.be/nJepq2yAnpE?si=t_b_nfpvTNWWpuDC)
-
+And then later, I want to go to the [header](#-latest-publications), you create a link, just like any other.
 
 <hr/>
 
@@ -75,6 +52,8 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 [![Watch the video](https://img.youtube.com/vi/G6OvGAXBtJU/maxresdefault.jpg)](https://youtu.be/G6OvGAXBtJU?si=CI9TAxjye2qTVBzK)
 
 <hr/>
+
+## <a id="my-header"> Latest Publications
 
 06/03/2024 22:23 UTC 
 ### Francis Poulenc - La Voix Humaine 
