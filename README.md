@@ -56,7 +56,7 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 06/03/2024 22:23 UTC 
 ### Francis Poulenc - La Voix Humaine 
 #### Denise Duval, cond. Georges Prêtre (1959)
-[Watch the video](https://youtu.be/nJepq2yAnpE?si=t_b_nfpvTNWWpuDC)
+[![Watch the video](https://img.youtube.com/vi/nJepq2yAnpE/0.jpg)](https://www.youtube.com/watch?v=nJepq2yAnpE)
 
 <hr/>
 
