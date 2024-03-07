@@ -73,8 +73,8 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 06/03/2024 23:50 UTC
 ### René Gerber - Concertino pour piano et orchestre à cordes (1945)
+[![Watch the video](https://img.youtube.com/vi/aV5COkw1JeA/0.jpg)](https://www.youtube.com/watch?v=aV5COkw1JeA)
 
-[Watch the video](https://youtu.be/aV5COkw1JeA?si=Qf1_6dXA25q-u2qU)
 
 <hr/>
 
