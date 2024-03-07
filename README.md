@@ -10,7 +10,7 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 06/03/2024 23:16 UTC 
 ### Johannes Brahms - Klavierstücke op 76 2
 #### Elisaveta Blumina piano
-[![Watch the video](https://img.youtube.com/vi/CmVpgTUrJSA/maxresdefault.jpg)](https://youtu.be/CmVpgTUrJSA?si=7RMhmBFl-QR7Tb0v target="_blank")
+[![Watch the video](https://img.youtube.com/vi/CmVpgTUrJSA/maxresdefault.jpg)](https://youtu.be/CmVpgTUrJSA?si=7RMhmBFl-QR7Tb0v")
 <hr/>
 
 06/03/2024 23:16 UTC 
