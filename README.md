@@ -14,7 +14,8 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 05/03/2024 23:23 UTC 
 ### Ch. M. Widor plays his Toccata from V Symphony Op. 42 No. 1 (1932)
 #### Played at St-Sulpice Church, Paris, 1932
-[Watch the video](https://www.youtube.com/watch?v=J8vz1D_L_OE)
+[![Watch the video](https://img.youtube.com/vi/J8vz1D_L_OE/0.jpg)](https://www.youtube.com/watch?v=J8vz1D_L_OE)
+
 <hr/>
 
 
