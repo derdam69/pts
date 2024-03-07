@@ -6,7 +6,7 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 <hr/>
 
-And then later, I want to go to the [header](#-latest-publications), you create a link, just like any other.
+[Latest publications](#-latest-publications)
 
 <hr/>
 
