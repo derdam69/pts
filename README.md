@@ -83,14 +83,20 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 <hr/>
 
 06/03/2024 23:16 UTC 
-### Johannes Brahms - Klavierstücke op 76 2
-#### Elisaveta Blumina piano
-[![Watch the video](https://img.youtube.com/vi/CmVpgTUrJSA/maxresdefault.jpg)](https://youtu.be/CmVpgTUrJSA?si=7RMhmBFl-QR7Tb0v)
+### Alberto Ginastera - Pampeana n.3 op.24 (1954)
+[![Watch the video](https://img.youtube.com/vi/icCQu1FCtfQ/0.jpg)](https://www.youtube.com/watch?v=icCQu1FCtfQ)
 
 <hr/>
 
 07/03/2024 23:21 UTC 
 ### Ryuichi Sakamoto - Discord (1998)
 [![Watch the video](https://img.youtube.com/vi/ig-7opc1AWE/0.jpg)](https://www.youtube.com/watch?v=ig-7opc1AWE)
+
+<hr/>
+
+06/03/2024 23:16 UTC 
+### Johannes Brahms - Klavierstücke op 76 2
+#### Elisaveta Blumina piano
+[![Watch the video](https://img.youtube.com/vi/CmVpgTUrJSA/maxresdefault.jpg)](https://youtu.be/CmVpgTUrJSA?si=7RMhmBFl-QR7Tb0v)
 
 
