@@ -84,7 +84,7 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 06/03/2024 23:16 UTC 
 ### Alberto Ginastera - Pampeana n.3 op.24 (1954)
-[![Watch the video](https://img.youtube.com/vi/icCQu1FCtfQ/0.jpg)](https://www.youtube.com/watch?v=icCQu1FCtfQ)
+[![Watch the video](https://img.youtube.com/vi/XDf8b1ATJnM/0.jpg)](https://www.youtube.com/watch?v=XDf8b1ATJnM)
 
 <hr/>
 
