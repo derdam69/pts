@@ -97,11 +97,6 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 <hr/>
 
-09/03/2024 01:22 UTC 
-### Sakamoto plays Sakamoto
-[![Watch the video](https://img.youtube.com/vi/roV-AIiOzIs/0.jpg)](https://www.youtube.com/watch?v=roV-AIiOzIs)
-
-<hr/>
 
 06/03/2024 23:16 UTC 
 ### Johannes Brahms - Klavierstücke op 76 2
