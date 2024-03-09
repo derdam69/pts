@@ -89,11 +89,8 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 <hr/>
 
 06/03/2024 23:16 UTC 
-### Chromatic Canon (For Lute and Live Electronics)
-#### John Cage, James Tenney, Alvin Lucier, Steve Reich
-[![Watch the video](https://img.youtube.com/vi/7JB-QY84SaU/0.jpg)](https://www.youtube.com/watch?v=7JB-QY84SaU)
-
-Piano version: https://youtu.be/hm1cIb9gLj8?si=tEB30OT2yfcp87mQ
+### James Tenney - Chromatic Canon
+[![Watch the video](https://img.youtube.com/vi/hm1cIb9gLj8/0.jpg)](https://www.youtube.com/watch?v=hm1cIb9gLj8)
 
 <br/>
 
