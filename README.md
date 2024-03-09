@@ -43,7 +43,7 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 05/03/2024 23:40 UTC 
 ### Messiaen - Fête des Belles Eaux for Six Ondes Martenot (1937)
-[![Watch the video](https://img.youtube.com/vi/ooLBuCmV3Vw/0.jpg)](https://www.youtube.com/watch?v=ooLBuCmV3Vw)
+[![Watch the video](https://img.youtube.com/vi/nrYgm5MML58/0.jpg)](https://www.youtube.com/watch?v=nrYgm5MML58)
 
 <hr/>
 
