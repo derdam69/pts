@@ -88,6 +88,13 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 <hr/>
 
+09/03/2024 19:58 UTC 
+### Arthur Honegger - Sinfonia n.1 (H.75) (1930)
+[![Watch the video](https://img.youtube.com/vi/FdsVxI7yjV4/0.jpg)](https://www.youtube.com/watch?v=FdsVxI7yjV4)
+
+
+<hr/>
+
 06/03/2024 23:16 UTC 
 ### James Tenney - Chromatic Canon
 [![Watch the video](https://img.youtube.com/vi/hm1cIb9gLj8/0.jpg)](https://www.youtube.com/watch?v=hm1cIb9gLj8)
