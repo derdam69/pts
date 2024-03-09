@@ -95,6 +95,12 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 <hr/>
 
+09/03/2024 18:21 UTC 
+### Francis Poulenc - Les mamelles de Tirésias
+[![Watch the video](https://img.youtube.com/vi/6tdF3lYDRtg/0.jpg)](https://www.youtube.com/watch?v=6tdF3lYDRtg)
+
+<hr/>
+
 06/03/2024 23:16 UTC 
 ### James Tenney - Chromatic Canon
 [![Watch the video](https://img.youtube.com/vi/hm1cIb9gLj8/0.jpg)](https://www.youtube.com/watch?v=hm1cIb9gLj8)
