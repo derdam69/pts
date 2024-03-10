@@ -101,6 +101,12 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 <hr/>
 
+10/03/2024 17:21 UTC 
+### Arthur Honegger: Sinfonia n.5 "Di Tre Re" (1950)
+[![Watch the video](https://img.youtube.com/vi/wIIQyDwlX7o/0.jpg)](https://www.youtube.com/watch?v=wIIQyDwlX7o)
+
+<hr/>
+
 06/03/2024 23:16 UTC 
 ### James Tenney - Chromatic Canon
 [![Watch the video](https://img.youtube.com/vi/hm1cIb9gLj8/0.jpg)](https://www.youtube.com/watch?v=hm1cIb9gLj8)
