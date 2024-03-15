@@ -115,7 +115,7 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 15/03/2024 21:21 UTC 
 ### Olivier Messiaen — Improvisations inédites (1984-1987)
-
+#### Olivier Messiaen (1908-1992), organiste titulaire, improvises LIVE at the grand organ of Sainte-Trinité in a very rare collection of unpublished recordings of improvisations compiled from masses and services.
 [![Watch the video](https://img.youtube.com/vi/7MkPMrqSiHw/0.jpg)](https://www.youtube.com/watch?v=7MkPMrqSiHw)
 
 <hr/>
