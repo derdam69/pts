@@ -116,7 +116,7 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 
 20/03/2024 23:51 UTC 
 ### Arthur Honegger - Judith (1925)
-![Watch the video](https://img.youtube.com/vi/bTSF-CIQXqI/0.jpg)](https://www.youtube.com/watch?v=bTSF-CIQXqI)
+[![Watch the video](https://img.youtube.com/vi/bTSF-CIQXqI/0.jpg)](https://www.youtube.com/watch?v=bTSF-CIQXqI)
 
 <hr/>
 
