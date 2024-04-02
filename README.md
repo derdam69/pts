@@ -16,9 +16,9 @@ https://youtube.com/playlist?list=PLNDXDJtQAOan29T32ZIcV-Fq8JAECulrQ&si=9cqBZHn8
 #### Played at St-Sulpice Church, Paris, 1932
 [![Watch the video](https://img.youtube.com/vi/J8vz1D_L_OE/0.jpg)](https://www.youtube.com/watch?v=J8vz1D_L_OE)
 
-Accordion by Christof De Backere Version: https://youtu.be/xjOycCJA6Ig?si=N48OqTDCHt_w39M1
+Accordion version by Christof De Backere Version: https://youtu.be/xjOycCJA6Ig?si=N48OqTDCHt_w39M1
 <br/>
-Hohner-Akkordeonorchester Würthner Rudolf Version: https://youtu.be/t8rVLdtRo3w?si=YWQ9Q_TyXs7cMGx8
+Hohner-Akkordeonorchester Würthner Rudolf version: https://youtu.be/t8rVLdtRo3w?si=YWQ9Q_TyXs7cMGx8
 <hr/>
 
 
