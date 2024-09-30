@@ -1,5 +1,8 @@
 ### zzz Code AI markup generation from Youtube video embedd html code:
 
+## Language:
+README.md markup language
+
 ## Prompt:
 generate a README.md file that embeds this youtube video:
 
