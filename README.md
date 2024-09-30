@@ -58,7 +58,7 @@ Hohner-Akkordeonorchester Würthner Rudolf version: https://youtu.be/t8rVLdtRo3w
 
 <hr/>
 
-## <a id="my-header"> Latest Publications
+
 
 06/03/2024 22:23 UTC 
 ### Francis Poulenc - La Voix Humaine 
@@ -146,6 +146,8 @@ Hohner-Akkordeonorchester Würthner Rudolf version: https://youtu.be/t8rVLdtRo3w
 [![Watch the video](https://img.youtube.com/vi/CmVpgTUrJSA/maxresdefault.jpg)](https://youtu.be/CmVpgTUrJSA?si=7RMhmBFl-QR7Tb0v)
 
 <hr/>
+
+## <a id="my-header"> Latest Publications
 
 30/09/2024 21:16 UTC 
 ### Lili Boulanger - Psalm 130 "Du fond de l'abîme" (1917)
